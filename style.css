@@ -1,0 +1,25 @@
+.img {
+  margin-top: 20px;
+  height: 350px;
+  background-image: url("images/recette_1.jpeg");
+  background-size: cover;
+  border-radius: 5px;
+}
+.fa-circle {
+  position: relative;
+  font-size: 85px;
+}
+.fa-circle-euro {
+  position: relative;
+  top: -54px;
+  left: 30px;
+}
+.fa-circle-euro__45 {
+  left: 20px;
+}
+.fa-circle-euro__mn {
+  left: 23px;
+}
+.fa-circle-euro__10 {
+  left: 21px;
+}
